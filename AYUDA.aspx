@@ -15,10 +15,7 @@
                         <h2>Este Software le proporciona una batería de preguntas o checklist que deberá ir comprobando durante las inspecciones FOD
                             de cada zona del avión y que le servirá de guía para sacar las discrepancias que encuentre durante la verificación.
                            Posteriormente podrá sacar un informe con el que revisar cada uno de estos puntos y poner solución lo antes posible
-                        </h2> 
-                        <br />
-                        <h3>Puede acceder al manual de usuario pulsando el siguiente botón (no disponible todavía)</h3>
-                        <asp:Button ID="btnManual" runat="server" Text="Manual de usuario"/>
+                        </h2>                         
                     </section>
                 </div>
             </div>
